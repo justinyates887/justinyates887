@@ -8,7 +8,7 @@
 <a href="mailto:justinyates887@protonmail.ch">
   <img src="./proton.png" width="45"></img>
 </a>
-<a href="https://linkedin.com/justinyates887">
+<a href="https://justinyates887.github.io/final-portfolio/">
   <img src="./website.png" width="45"></img>
 </a>
 
