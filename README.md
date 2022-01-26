@@ -2,7 +2,7 @@
 
 # Contact 
 
-<a href="https://linkedin.com/justinyates887">
+<a href="https://linkedin.com/in/justin-yates887">
   <img src="./linked.png" width="45"></img>
 </a>
 <a href="mailto:justinyates887@protonmail.ch">
