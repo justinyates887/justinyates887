@@ -1,16 +1,23 @@
 ![banner](./banner.gif)
 
-# Contact 
+## Info
 
-<a href="https://linkedin.com/in/justin-yates887">
-  <img src="./linked.png" width="45"></img>
-</a>
-<a href="mailto:justinyates887@protonmail.ch">
-  <img src="./proton.png" width="45"></img>
-</a>
-<a href="https://justinyates887.github.io/final-portfolio/">
-  <img src="./website.png" width="45"></img>
-</a>
+### 🔭 I’m currently working on ...
+
+Websites for two local contractors and a private iOS application. Check out the website repos ![here](https://www.github.com/justinyates887/api-website)
+
+### 🌱 I’m currently learning ...
+
+Swift for iOS development, furthering my knowledge on SQL and React.
+
+
+### 😄 Pronouns:
+He/Him
+
+### ⚡ My Favorite Projects:
+- Our [Discord Bot](https://github.com/justinyates887/BHG-BETA)
+- A [Visual Studio Code Theme](https://github.com/justinyates887/discord-vs-theme)
+- The [Website for Our Bot](https://github.com/justinyates887/bhg-website-new)
 
 ## 🔧 Technical Skills
 
@@ -62,21 +69,14 @@
 
 -----------------------------------------
 
-## Info
+# Contact 
 
-### 🔭 I’m currently working on ...
-
-Websites for two local contractors and a private iOS application. Check out the website repos ![here](https://www.github.com/justinyates887/api-website)
-
-### 🌱 I’m currently learning ...
-
-Swift for iOS development, furthering my knowledge on SQL and React.
-
-
-### 😄 Pronouns:
-He/Him
-
-### ⚡ My Favorite Projects:
-- Our [Discord Bot](https://github.com/justinyates887/BHG-BETA)
-- A [Visual Studio Code Theme](https://github.com/justinyates887/discord-vs-theme)
-- The [Website for Our Bot](https://github.com/justinyates887/bhg-website-new)
+<a href="https://linkedin.com/in/justin-yates887">
+  <img src="./linked.png" width="45"></img>
+</a>
+<a href="mailto:justinyates887@protonmail.ch">
+  <img src="./proton.png" width="45"></img>
+</a>
+<a href="https://justinyates887.github.io/final-portfolio/">
+  <img src="./website.png" width="50"></img>
+</a>
