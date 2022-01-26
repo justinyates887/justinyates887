@@ -79,4 +79,6 @@ Swift for iOS development, furthering my knowledge on SQL and React.
 He/Him
 
 ### ⚡ My Favorite Projects:
-
+- Our [Discord Bot](https://github.com/justinyates887/BHG-BETA)
+- A [Visual Studio Code Theme](https://github.com/justinyates887/discord-vs-theme)
+- The [Website for Our Bot](https://github.com/justinyates887/bhg-website-new)
