@@ -49,7 +49,7 @@
 
 ## 🎓 Challenges & Education
 
-**University of Kansas Full-Stack Coding**
+[**University of Kansas Full-Stack Coding**](https://github.com/justinyates887/justinyates887/blob/main/1621903798741.pdf)
 
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
