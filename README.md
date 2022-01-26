@@ -1,6 +1,6 @@
 # Justin Yates
 
-![banner](https://github.com/justinyates887/justinyates887/blob/main/MJazz%20Playing.mp4)
+![banner](./MJazzPlaying.mp4)
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
