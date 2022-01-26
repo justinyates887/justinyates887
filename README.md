@@ -3,12 +3,14 @@
 # Contact 
 
 <a href="https://linkedin.com/justinyates887">
-  <img src="./linked.png" width="50"></img>
+  <img src="./linked.png" width="45"></img>
 </a>
-
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) [justinyates887](mailto:justinyates887@protonmail.ch)
-
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+<a href="mailto:justinyates887@protonmail.ch">
+  <img src="./proton.png" width="45"></img>
+</a>
+<a href="https://linkedin.com/justinyates887">
+  <img src="./website.png" width="45"></img>
+</a>
 
 ## 🔧 Technical Skills
 
