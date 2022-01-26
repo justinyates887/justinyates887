@@ -2,7 +2,9 @@
 
 # Contact 
 
-<a href="https://linkedin.com/justinyates887"><img src="./linked.png"></img></a>
+<a href="https://linkedin.com/justinyates887">
+  <img src="./linked.png" width="50"></img>
+</a>
 
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) [justinyates887](mailto:justinyates887@protonmail.ch)
 
