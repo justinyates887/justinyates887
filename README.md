@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently working on ...
 
-Websites for two local contractors and a private iOS application. Check out the website repos ![here](https://www.github.com/justinyates887/api-website)
+Websites for two local contractors and a private iOS application. Check out the website repos [here](https://www.github.com/justinyates887/api-website)
 
 ### 🌱 I’m currently learning ...
 
