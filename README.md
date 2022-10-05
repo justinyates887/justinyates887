@@ -1,5 +1,7 @@
 ![banner](./banner.gif)
 
+![](https://www.codewars.com/users/justinyates887/badges/small)
+
 ## Info
 
 ### 🔭 I’m currently working on ...
