@@ -10,7 +10,7 @@ Websites for two local contractors. Check out the website repos [here](https://w
 
 ### 🌱 I’m currently learning ...
 
-Python, Jupyter Notebooks, Tableau, and Security+
+Python, Jupyter Notebooks, C#, and C++
 
 
 ### 😄 Pronouns:
