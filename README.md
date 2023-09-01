@@ -6,11 +6,11 @@
 
 ### 🔭 I’m currently working on ...
 
-Obtaining more certifications in my current stack goals (See below)
+[Life](https://github.com/justinyates887/life), a Full-Stack C#/React/TS application.
 
 ### 🌱 I’m currently learning ...
 
-C#, C++, Redis, Azure, SOLID Principles, GraphQL
+C#, C++, TypeScript, Azure, SOLID Principles, GraphQL
 
 
 ### 😄 Pronouns:
